@@ -156,7 +156,7 @@ Use this section to record contextual observations, outstanding issues, or imple
 
 **Reference:** March 12, 2026 Section 8 (Patient Demographics & Birth Information)
 
-**Issue:** Anne Amulele raised a critical issue: some neonates are born and discharged, then readmitted days later when they become sick. The current fields capture *days in hospital before specimen collection* but do not adequately capture the full admission/discharge/readmission pathway. This makes it difficult to distinguish between true community-acquired infections and hospital-acquired infections in readmitted neonates.
+**Issue:**  raised a critical issue: some neonates are born and discharged, then readmitted days later when they become sick. The current fields capture *days in hospital before specimen collection* but do not adequately capture the full admission/discharge/readmission pathway. This makes it difficult to distinguish between true community-acquired infections and hospital-acquired infections in readmitted neonates.
 
 **Status:** Acknowledged as a gap. The current specification does not fully address this scenario.
 
